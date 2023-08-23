@@ -2,6 +2,7 @@
 
 Watch Tutorial Video Now: https://www.youtube.com/watch?v=hpLvXNASyTI&list=PLzewa6pjbr3JQKhB_U_FiuYwQC70i-TyU&index=5
 
+
 This is .Net Core Docker Tutorial [.Net Docker Tutorial] that explains how to containerize .Net application with SQL Server Database. Visual Studio provides the options to easily develop applications with Docker Support, Debug with Docker [Docker .Net Core Debug], and Deploy the Docker Container [Deploy .Net Core to Docker].
 
 We are using the Official container image for Microsoft SQL Server on Linux for Docker Engine [SQL Server Docker]. We'll use this docker image for creating a container for SQL Server Database. Then the .Net Core application container can connect to the database container for read-write operations.
